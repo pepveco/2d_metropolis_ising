@@ -5,7 +5,7 @@ This repository contains MATLAB codes and materials related to the study of the 
 ## What is a Sweep?
 
 In Monte Carlo simulations of spin systems, a **sweep** (also called a Monte Carlo step) means that, on average, **each spin in the lattice has been selected once for an update attempt**.  
-For a lattice of size $N \times N$ , one sweep corresponds to $ N^2 $ single-spin flip attempts.
+For a lattice of size $N \times N$ , one sweep corresponds to $N^2$ single-spin flip attempts.
 
 ## What is the Simulation?
 
@@ -36,9 +36,8 @@ By repeating this process over many sweeps, one can study physical quantities su
   - **Fixed T, magnetization vs sweeps**  
   - **Variable T, magnetization vs temperature**  
 - Comparison with the **analytical critical temperature**  
-  $
-  T_c = \frac{2}{\ln(1+\sqrt{2})}
-  $
+
+  $T_c = \frac{2}{\ln(1+\sqrt{2})}$
 
 ## Theoretical Background
 
