@@ -33,8 +33,8 @@ By repeating this process over many sweeps, one can study physical quantities su
 
 - Implementation of the **Metropolis algorithm** with periodic boundary conditions.  
 - Two complementary approaches:
-  - **Fixed T, magnetization vs sweeps**  
-  - **Variable T, magnetization vs temperature**  
+  - **Fixed $T$, magnetization vs sweeps**  
+  - **Variable $T$, magnetization vs temperature**  
 - Comparison with the **analytical critical temperature**  
 
   $T_c = \frac{2}{\ln(1+\sqrt{2})}$
