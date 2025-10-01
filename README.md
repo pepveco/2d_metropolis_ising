@@ -44,3 +44,8 @@ By repeating this process over many sweeps, one can study physical quantities su
 The theoretical framework and reference material for these simulations are detailed in  
 **“Monte Carlo Statistical Physics” by Newman and Barkema**,  
 which provides a comprehensive introduction to the Ising model and Monte Carlo methods in statistical physics.
+
+## Acknowledgments
+
+This project was developed as part of the **Problem Solving course** at the University of Pavia.  
+I would like to thank **Prof. Giacomo Livan** for his lectures, which inspired and guided the development of these simulations.
